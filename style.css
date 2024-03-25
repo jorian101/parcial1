@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.gameboard{
+    background-color: #adff2f;
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    border-style: solid;
+}
+.btn-start{
+    background-color: #2fc4ff;
+    color: #000000;
+    letter-spacing: 6px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
